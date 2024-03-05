@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.App img{
+  width: 400px;
+  height: 400px;
+  border-radius: 30px;
+}
+
+.App{
+  background-color: #29454d;
+  width: auto;
+  height: auto
+}
+
+.App h1{
+  color: aliceblue;
+}
+.App p{
+  color: red;
+}
